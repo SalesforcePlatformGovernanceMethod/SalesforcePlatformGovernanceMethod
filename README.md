@@ -8,12 +8,12 @@ Welcome to the **Salesforce Platform Governance Method Recourse Base** links rep
 
 # **Salesforce Platform Governance Method Resource Base Links**
 
-- [Chapter 12 – Application Architecture (Phase A) Resource Base Links](https://github.com/SalesforcePlatformGovernanceMethod/Phase-A)
-- [Chapter 13 - Data Architecture & Management](https://github.com/SalesforcePlatformGovernanceMethod/Phase-B)
-- [Chapter 14 - Identity & Access Management](https://github.com/SalesforcePlatformGovernanceMethod/Phase-C)
-- [Chapter 15 - Sharing & Visibility](https://github.com/SalesforcePlatformGovernanceMethod/Phase-D)
-- [Chapter 16 - Integration](https://github.com/SalesforcePlatformGovernanceMethod/Phase-E)
-- [Chapter 17 - Apex Visualforce & Lightning](https://github.com/SalesforcePlatformGovernanceMethod/Phase-F)
-- [Chapter 18 - Communities](https://github.com/SalesforcePlatformGovernanceMethod/Phase-G)
-- [Chapter 19 - Mobile Solustions Architecture](https://github.com/SalesforcePlatformGovernanceMethod/Phase-H)
-- [Chapter 20 - Development Lifecycle & Deployment](https://github.com/SalesforcePlatformGovernanceMethod/Phase-I)
+- [Chapter 12 (Phase-A) – Application Architecture (Phase A) Resource Base Links](https://github.com/SalesforcePlatformGovernanceMethod/Phase-A)
+- [Chapter 13 (Phase-B) - Data Architecture & Management](https://github.com/SalesforcePlatformGovernanceMethod/Phase-B)
+- [Chapter 14 (Phase-C) - Identity & Access Management](https://github.com/SalesforcePlatformGovernanceMethod/Phase-C)
+- [Chapter 15 (Phase-D) - Sharing & Visibility](https://github.com/SalesforcePlatformGovernanceMethod/Phase-D)
+- [Chapter 16 (Phase-E) - Integration](https://github.com/SalesforcePlatformGovernanceMethod/Phase-E)
+- [Chapter 17 (Phase-F) - Apex Visualforce & Lightning](https://github.com/SalesforcePlatformGovernanceMethod/Phase-F)
+- [Chapter 18 (Phase-G) - Communities](https://github.com/SalesforcePlatformGovernanceMethod/Phase-G)
+- [Chapter 19 (Phase-H) - Mobile Solustions Architecture](https://github.com/SalesforcePlatformGovernanceMethod/Phase-H)
+- [Chapter 20 (Phase-I) - Development Lifecycle & Deployment](https://github.com/SalesforcePlatformGovernanceMethod/Phase-I)
