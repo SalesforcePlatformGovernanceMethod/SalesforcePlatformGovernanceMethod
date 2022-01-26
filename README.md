@@ -4,7 +4,6 @@ Welcome to the **Salesforce Platform Governance Method Recourse Base** links rep
 
 # **Salesforce Platform Governance Method Resource Base Links**
 
-  - [Introduction](#introduction)
   - [Chapter 12 – Application Architecture (Phase A) Resource Base Links](https://github.com/SalesforcePlatformGovernanceMethod/Phase-A)
   - [Chapter 13 - Data Architecture & Management](#chapter-13---data-architecture--management)
   - [Chapter 14 - Identity & Access Management](#chapter-14---identity--access-management)
